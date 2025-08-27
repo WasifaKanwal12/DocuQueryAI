@@ -2,6 +2,10 @@
 
 A Streamlit application that lets you chat with your PDF documents using Google's Gemini AI.
 
+| App Interface | Chat Example |
+|:-------------:|:------------:|
+| ![App Interface](UI.JPG) | ![Chat Example](UI2.JPG) |
+
 ## ✨ Features
 
 - **PDF Upload**: Easily upload and process PDF documents
@@ -52,5 +56,3 @@ A Streamlit application that lets you chat with your PDF documents using Google'
 - Python 3.7 or higher
 - Valid Google AI API key
 - PDF files to analyze
-
--
